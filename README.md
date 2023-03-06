@@ -1,2 +1,2 @@
 # Python
-OOP-GUI-API-Automation-Data Analysis-Web Foundation-Data Manipulation
+OOP-GUI-API-Automation-Data Analysis-Data Manipulation-Web Foundation
