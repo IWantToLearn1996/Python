@@ -1,6 +1,0 @@
-Response Codes:
-1xx: Hold On
-2xx: Success
-3xx: Redirection
-4xx: Error from User
-5xx: Error from Server
